@@ -45,7 +45,7 @@ class Home extends React.Component {
               </Table>
             </Col>
           </Row>
-          <Row className="mb-1">
+          <Row className="mb-4">
             <Col className="text-center" sm="12" md={{ size: 8, offset: 2 }}>
               <h3>勉強してきた(している)スキル</h3>
               HTML, CSS, Bootstrap, JavaScript, Node.js, React, Ruby, Rails, Java, Git, Heroku
