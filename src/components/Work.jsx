@@ -4,7 +4,7 @@ import React from 'react';
 class Work extends React.Component {
   render(){
     return(
-      <h1>work</h1>
+      <h1>works</h1>
     )
   }
 }
