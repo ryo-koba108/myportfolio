@@ -18,7 +18,7 @@ class Contact extends React.Component {
             <tbody>
               <tr>
                 <th>GitHub</th>
-                <td><a href="https://github.com/ryo-koba108" target="_blank">GitHub(別タブで開く)</a></td>
+                <td><a href="https://github.com/ryo-koba108" rel="noreferrer noopener" target="_blank">GitHub(別タブで開く)</a></td>
               </tr>
               <tr>
                 <th>E-mail</th>
