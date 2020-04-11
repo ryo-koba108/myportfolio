@@ -47,8 +47,8 @@ class Home extends React.Component {
           </Row>
           <Row className="mb-4">
             <Col className="text-center" sm="12" md={{ size: 8, offset: 2 }}>
-              <h3>勉強してきた(している)スキル</h3>
-              HTML, CSS, Bootstrap, JavaScript, Node.js, React, Vue, Ruby, Rails, Java, Git, Heroku
+              <h3>勉強しているスキル</h3>
+              HTML, CSS, JavaScript, Node.js, React, Git, Heroku
             </Col>
           </Row>
         </Container>
