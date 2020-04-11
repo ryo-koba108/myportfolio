@@ -5,7 +5,7 @@ import {
   Row,
   Col
 } from 'reactstrap';
-import workimg from '../img/homepage_full.jpg';
+import workimg from '../img/homepagefull.jpg';
 
 class Work extends React.Component {
   render(){
