@@ -19,13 +19,14 @@ class Work extends React.Component {
             </Col>
             <Col md="6">
               <h2 className="text-center">カーコーティング会社のLP作成</h2><hr/>
-              <p>・<a href="https://mspolish.herokuapp.com/" rel="noreferrer noopener" target="_blank">実際のページ</a>
+              <p>・<a href="https://mspolish2018.com" rel="noreferrer noopener" target="_blank">実際のページ</a>
               ・<a href="https://github.com/ryo-koba108/mspolish_homepage" rel="noreferrer noopener" target="_blank">GitHub</a></p>
               <p>・使用した言語<br/> HTML, CSS, Bootstrap</p>
               <p>・説明<br/>知り合いの企業さんからLP制作の依頼をいただき作成中です。
                 Bootstrapを利用してレスポンシブにも対応させています。
                 <br/>企業さんの希望を伺いつつ現在も修正したり機能を追加したりしています。<br/>
-                ポートフォリオの一貫としての利用の許可をいただき、アプリとしてherokuにデプロイしています。
+                ポートフォリオの一貫としての利用の許可をいただいております。<br/>
+                実際にサーバーを借りてネット公開まで行いました。
               </p>
             </Col>
           </Row>

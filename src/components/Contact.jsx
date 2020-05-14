@@ -21,6 +21,10 @@ class Contact extends React.Component {
                 <td><a href="https://github.com/ryo-koba108" rel="noreferrer noopener" target="_blank">GitHub(別タブで開く)</a></td>
               </tr>
               <tr>
+                <th>qiita</th>
+                <td><a href="https://qiita.com/koba_prog" rel="noreferrer noopener" target="_blank">Qiita(別タブで開く)</a></td>
+              </tr>
+              <tr>
                 <th>E-mail</th>
                 <td>ryota.kobayashi108@gmail.com</td>
               </tr>
