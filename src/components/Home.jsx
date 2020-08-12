@@ -37,6 +37,12 @@ class Home extends React.Component {
                     </td>
                   </tr>
                   <tr>
+                    <th>2020.6 - 2020.7</th>
+                    <td>
+                      ゴールドウェア株式会社と業務委託契約を締結し、Webアプリケーション開発に従事
+                    </td>
+                  </tr>
+                  <tr>
                     <th>現在</th>
                     <td>フロントエンドエンジニアになるため,転職活動中</td>
                   </tr>
@@ -51,7 +57,7 @@ class Home extends React.Component {
           <Row className="mb-4">
             <Col className="text-center" sm="12" md={{ size: 8, offset: 2 }}>
               <h3>勉強しているスキル</h3>
-              HTML, CSS, JavaScript, Node.js, React, Vue, Git, Firebase
+              HTML, CSS, JavaScript, Node.js, React, Next.js, Git, Firebase
             </Col>
           </Row>
         </Container>
